@@ -47,7 +47,7 @@ Name: Madhavan M
 
 ![241133063-1c1bd3a2-1d6b-4288-80e6-bb70be51ed3c](https://github.com/Madhav005/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/110885274/5e3b0112-76e7-4f67-9253-eeea91f43508)
 
-![241133063-1c1bd3a2-1d6b-4288-80e6-bb70be51ed3c](https://github.com/Madhav005/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/110885274/6c50f11b-f603-454b-aae2-295c0bc84087)
+![241133068-478a4983-cf38-48ab-9309-c4dcf499f3da](https://github.com/Madhav005/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/110885274/39e83e5a-3c26-47eb-90bf-f2131637d341)
 
 ## Results: 
 A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully
