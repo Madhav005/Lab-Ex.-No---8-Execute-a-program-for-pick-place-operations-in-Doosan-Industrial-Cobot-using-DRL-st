@@ -28,8 +28,6 @@ Sensors: You can think of sensors as the eyes of the robots. The sensors do the 
 
 Controllers: Controllers synchronize and control the movement of different actuators of a robot, thereby being the brain behind the smooth robotic operation.
 
-
-
 Procedure:
 
 
@@ -38,17 +36,21 @@ Procedure:
 3)Move to poin1 using move J
 ............
 
-
 ## Program 
-// Roll no:
-
-//Name:
-MoveJ ................
+Roll no: 212222040089
+Name: Madhavan M
 
 ## output : 
+![241133028-88e4a69b-93e6-44a9-983a-3100dfb097b1](https://github.com/Madhav005/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/110885274/63add420-74ba-40c7-b2dd-47a3b4c4aabc)
 
+![241133044-7d8fd88b-4c79-4e31-99c0-52f00abcbdef](https://github.com/Madhav005/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/110885274/2f9b3623-3563-4ecb-82ff-2a0c3cbe2e1b)
+
+![241133063-1c1bd3a2-1d6b-4288-80e6-bb70be51ed3c](https://github.com/Madhav005/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/110885274/5e3b0112-76e7-4f67-9253-eeea91f43508)
+
+![241133063-1c1bd3a2-1d6b-4288-80e6-bb70be51ed3c](https://github.com/Madhav005/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/110885274/6c50f11b-f603-454b-aae2-295c0bc84087)
 
 ## Results: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully
 
 
 
